@@ -8,7 +8,6 @@ public class MainApp {
 		ViewEjercicio02 frame = new ViewEjercicio02();
 		frame.setVisible(true);
 		frame.setLocationRelativeTo(null);
-
 	}
 
 }

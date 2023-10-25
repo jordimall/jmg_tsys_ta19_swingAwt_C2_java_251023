@@ -22,8 +22,6 @@ public class ViewEjercicio01 extends JFrame {
 	 * Create the frame.
 	 */
 	public ViewEjercicio01() {
-		setLocationRelativeTo(null);
-		setVisible(true);
 		setTitle("Saludador");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
